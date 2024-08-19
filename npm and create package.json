@@ -1,1 +1,7 @@
 npm and create package.json
+{
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  }
+}
