@@ -27,4 +27,9 @@
     "nodemon": "^2.0.14",
     "supertest": "^6.1.6"
   }
+{
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --runInBand"
+  }
 }
