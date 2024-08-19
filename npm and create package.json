@@ -1,5 +1,0 @@
-npm init -y
-npm install express mongoose moment dotenv
-npm install --save-dev jest supertest nodemon
-npm install express mongoose moment dotenv && npm install --save-dev jest supertest nodemon
-npm install express@4.17.1
