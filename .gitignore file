@@ -1,1 +1,4 @@
- .gitignore file
+.gitignore file
+node_modules/
+.env
+*.log
